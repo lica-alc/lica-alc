@@ -5,7 +5,7 @@
 
 - 📫 Você me acha através do e-mail **lica_alc@hotmail.com**
 
-- 📄 Atuo na área de Ti desde 2004. Atualmente sou analista de suporte pleno, mas já atuei como instrutor de informática e hoje procuro uma oportunidade na área de dados. https://www.linkedin.com/in/liliane-alc%C3%A2ntara-floren%C3%A7o-977b9b26b
+- 📄 Atuo na área de Ti desde 2004. Atualmente sou analista de suporte pleno, mas já atuei como instrutor de informática e hoje procuro uma oportunidade na área de dados. 
  
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
