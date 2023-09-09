@@ -10,7 +10,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/liliane-alc%C3%A2ntara-floren%C3%A7o-977b9b26b" target="blank">
-  <img width="40" height="40" src="/imagens/img/linkedin.png"></a>
+  <img width="40" height="40" src="/imagens/img/linkedin.png"/></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
