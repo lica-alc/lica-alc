@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou a Liliane</h1>
+<h1 align="center">Oi 👋, Eu sou a Liliane (EM CONSTRUÇÃO)</h1>
 <h3 align="center">Sou estudante apaixonada por ciências e análise de dados.</h3>
 
 - 🌱 Atualmente estou estudando **Python, Excel, SQL, Power Bi**
