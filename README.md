@@ -31,7 +31,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql " width="30" height="30"/>
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
   <img align="center" src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="30" height="30"/> 
-   <img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="power width="30" height="30"/> 
+   <img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="power" width="30" height="30"/> 
 
 
 
